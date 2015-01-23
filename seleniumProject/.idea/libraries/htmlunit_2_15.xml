@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="htmlunit-2.15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Selenium/selenium-2.44.0/libs/htmlunit-2.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
